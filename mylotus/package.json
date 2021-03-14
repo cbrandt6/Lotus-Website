@@ -2,7 +2,7 @@
   "name": "mylotus",
   "version": "0.1.0",
   "private": true,
-  "homgepage": "http://rahadk.github.io/Lotus-Website",
+  "homgepage": "http://cbrandt6.github.io/Lotus-Website",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
