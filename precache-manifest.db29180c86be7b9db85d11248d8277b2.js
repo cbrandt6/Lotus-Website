@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e3dbc1d94d06ee6b1527912512deba1",
+    "revision": "9c5180427fde3646d8865982c5da5899",
     "url": "/Lotus-Website/index.html"
   },
   {
-    "revision": "6ed101d341f6d0b7bd3a",
+    "revision": "53c9ea19ac72326c4129",
     "url": "/Lotus-Website/static/css/2.89c974ea.chunk.css"
   },
   {
-    "revision": "dcef335447270e65ce79",
+    "revision": "79c428eca144bda4b918",
     "url": "/Lotus-Website/static/css/main.f1a68862.chunk.css"
   },
   {
-    "revision": "6ed101d341f6d0b7bd3a",
-    "url": "/Lotus-Website/static/js/2.2198d714.chunk.js"
+    "revision": "53c9ea19ac72326c4129",
+    "url": "/Lotus-Website/static/js/2.8e826a06.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/Lotus-Website/static/js/2.2198d714.chunk.js.LICENSE.txt"
+    "url": "/Lotus-Website/static/js/2.8e826a06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dcef335447270e65ce79",
-    "url": "/Lotus-Website/static/js/main.c26de314.chunk.js"
+    "revision": "79c428eca144bda4b918",
+    "url": "/Lotus-Website/static/js/main.b6774db3.chunk.js"
   },
   {
     "revision": "c71c569ab05e4c406d96",

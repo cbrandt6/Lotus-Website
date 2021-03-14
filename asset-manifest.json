@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Lotus-Website/static/css/main.f1a68862.chunk.css",
-    "main.js": "/Lotus-Website/static/js/main.c26de314.chunk.js",
-    "main.js.map": "/Lotus-Website/static/js/main.c26de314.chunk.js.map",
+    "main.js": "/Lotus-Website/static/js/main.b6774db3.chunk.js",
+    "main.js.map": "/Lotus-Website/static/js/main.b6774db3.chunk.js.map",
     "runtime-main.js": "/Lotus-Website/static/js/runtime-main.272aae05.js",
     "runtime-main.js.map": "/Lotus-Website/static/js/runtime-main.272aae05.js.map",
     "static/css/2.89c974ea.chunk.css": "/Lotus-Website/static/css/2.89c974ea.chunk.css",
-    "static/js/2.2198d714.chunk.js": "/Lotus-Website/static/js/2.2198d714.chunk.js",
-    "static/js/2.2198d714.chunk.js.map": "/Lotus-Website/static/js/2.2198d714.chunk.js.map",
+    "static/js/2.8e826a06.chunk.js": "/Lotus-Website/static/js/2.8e826a06.chunk.js",
+    "static/js/2.8e826a06.chunk.js.map": "/Lotus-Website/static/js/2.8e826a06.chunk.js.map",
     "index.html": "/Lotus-Website/index.html",
-    "precache-manifest.00095923c6b10596e2bce2fb2eba3a56.js": "/Lotus-Website/precache-manifest.00095923c6b10596e2bce2fb2eba3a56.js",
+    "precache-manifest.db29180c86be7b9db85d11248d8277b2.js": "/Lotus-Website/precache-manifest.db29180c86be7b9db85d11248d8277b2.js",
     "service-worker.js": "/Lotus-Website/service-worker.js",
     "static/css/2.89c974ea.chunk.css.map": "/Lotus-Website/static/css/2.89c974ea.chunk.css.map",
     "static/css/main.f1a68862.chunk.css.map": "/Lotus-Website/static/css/main.f1a68862.chunk.css.map",
-    "static/js/2.2198d714.chunk.js.LICENSE.txt": "/Lotus-Website/static/js/2.2198d714.chunk.js.LICENSE.txt",
+    "static/js/2.8e826a06.chunk.js.LICENSE.txt": "/Lotus-Website/static/js/2.8e826a06.chunk.js.LICENSE.txt",
     "static/media/apple-music.png": "/Lotus-Website/static/media/apple-music.24451496.png",
     "static/media/ben_cropped.jpg": "/Lotus-Website/static/media/ben_cropped.56ef95ef.jpg",
     "static/media/nav-lotus-flower.png": "/Lotus-Website/static/media/nav-lotus-flower.c9fc3e9d.png",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.272aae05.js",
     "static/css/2.89c974ea.chunk.css",
-    "static/js/2.2198d714.chunk.js",
+    "static/js/2.8e826a06.chunk.js",
     "static/css/main.f1a68862.chunk.css",
-    "static/js/main.c26de314.chunk.js"
+    "static/js/main.b6774db3.chunk.js"
   ]
 }
